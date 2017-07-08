@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1498099402 source:/home/robot/mjq/newcoder_si_1/main.cpp
+	<iostream>
+	<stdio.h>
+
